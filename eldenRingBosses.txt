@@ -34,7 +34,7 @@ Night's Cavalry DONE
 Runebear DONE
 Scaly Misbegotten DONE
  
-LIURNIA - 5 Left
+LIURNIA - 1 Left
 Adan, Thief of Fire DONE
 Alecto, Black Knife Ringleader
 Bell Bearing Hunter DONE
@@ -42,7 +42,7 @@ Black Knife Assassin DONE
 Bloodhound Knight DONE
 Bols, Carian Knight DONE
 Cemetery Shade DONE
-Cleanrot Knight
+Cleanrot Knight DONE
 Crystalline DONE
 Crystalian Spear & Crystalian Staff (Duo) DONE
 Death Rite Bird DONE
@@ -53,14 +53,14 @@ Erdtree Burial Watchdog DONE
 Glintstone Dragon Adula DONE
 Glintstone Dragon Smarag DONE
 Magma Wyrm Makar DONE
-Night's Cavalry (Liurnia North)
-Night's Cavalry (Liurnia South)
+Night's Cavalry (Liurnia North) DONE
+Night's Cavalry (Liurnia South) DONE
 Omenkiller DONE
 Onyx Lord DONE
 Red Wolf of Radagon DONE
 Rennala, Queen of the Full Moon DONE
 Royal Knight Loretta DONE
-Royal Revenant
+Royal Revenant DONE
 Spirit-Caller Snail DONE
 Tibia Mariner DONE
 
@@ -107,7 +107,7 @@ Ancient Hero of Zamor
 Black Knife Assassin (Sage's Cave)
 Black Knife Assassin (Sainted Hero's Grave)
 Crystalian Spear & Crystalian Ringblade
-Demi-Human Queen Gilika
+Demi-Human Queen Gilika DONE
 Elemer of the Briar
 Erdtree Burial Watchdog
 Fallingstar Beast
@@ -122,3 +122,8 @@ Stonedigger Troll
 Tibia Mariner DONE
 Tree Sentinel (Duo)
 Wormface
+
+NOKRON - 1 Left
+Mimic Tear DONE
+Regal Ancestor Spirit
+Valiant Gargoyle & Valiant Gargoyle (Twinblade) DONE
