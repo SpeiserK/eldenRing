@@ -101,14 +101,14 @@ Putrid Avatar DONE
 Putrid Crystalian Trio 
 Putrid Tree Spirit
 
-ALTUS PLATEAU - 4 Left
+ALTUS PLATEAU - 2 Left
 Ancient Dragon Lansseax DONE
 Ancient Hero of Zamor DONE
 Black Knife Assassin (Sage's Cave) DONE
 Black Knife Assassin (Sainted Hero's Grave) DONE
 Crystalian Spear & Crystalian Ringblade DONE
 Demi-Human Queen Gilika DONE
-Elemer of the Briar
+Elemer of the Briar DONE
 Erdtree Burial Watchdog DONE
 Fallingstar Beast
 Godefroy The Grafted DONE
@@ -120,10 +120,20 @@ Perfumer Tricia and Misbegotten Warrior DONE
 Sanguine Noble DONE
 Stonedigger Troll DONE
 Tibia Mariner DONE
-Tree Sentinel (Duo)
+Tree Sentinel (Duo) DONE
 Wormface DONE
 
 NOKRON - 1 Left
 Mimic Tear DONE
 Regal Ancestor Spirit
 Valiant Gargoyle & Valiant Gargoyle (Twinblade) DONE
+
+CAPITAL OUTSKIRTS
+Bell Bearing Hunter
+Crucible Knight & Crucible Knight Ordovis
+Deathbird
+Draconic Tree Sentinel
+Fell Twins
+Grave Warden Duelist
+Onyx Lord DONE
+
