@@ -1,4 +1,4 @@
-LIMGRAVE - DONE
+LIMGRAVE
 Beastman of Farum Azula DONE
 Bell Bearing Hunter DONE
 Black Knife Assassin DONE
@@ -22,7 +22,7 @@ Tibia Mariner DONE
 Tree Sentinel DONE
 Ulcerated Tree Spirit DONE
 
-WEEPING PENINSULA - DONE
+WEEPING PENINSULA
 Ancient Hero of Zamor DONE
 Cemetery Shade DONE
 Deathbird DONE
@@ -64,7 +64,7 @@ Royal Revenant DONE
 Spirit-Caller Snail DONE
 Tibia Mariner DONE
 
-AINSEL DONE
+AINSEL
 Dragonkin Soldier of Nokstella DONE
 
 SIOFRA RIVER - 1 Left
@@ -72,7 +72,7 @@ Ancestor Spirit DONE
 Dragonkin Soldier DONE
 Mohg, Lord of Blood
 
-CAELID - DONE
+CAELID
 Mad Pumpkin Head Duo DONE
 Erdtree Burial Watchdog Duo DONE
 Cemetery Shade DONE
@@ -101,7 +101,7 @@ Putrid Avatar DONE
 Putrid Crystalian Trio 
 Putrid Tree Spirit
 
-ALTUS PLATEAU - 1 Left
+ALTUS PLATEAU
 Ancient Dragon Lansseax DONE
 Ancient Hero of Zamor DONE
 Black Knife Assassin (Sage's Cave) DONE
@@ -115,7 +115,7 @@ Godefroy The Grafted DONE
 Godskin Apostle DONE
 Necromancer Garris DONE
 Night's Cavalry DONE
-Omenkiller & Miranda the Blighted Bloom
+Omenkiller & Miranda the Blighted Bloom DONE
 Perfumer Tricia and Misbegotten Warrior DONE
 Sanguine Noble DONE
 Stonedigger Troll DONE
@@ -128,11 +128,11 @@ Mimic Tear DONE
 Regal Ancestor Spirit
 Valiant Gargoyle & Valiant Gargoyle (Twinblade) DONE
 
-CAPITAL OUTSKIRTS - 4 Left
+CAPITAL OUTSKIRTS - 2 Left
 Bell Bearing Hunter
 Crucible Knight & Crucible Knight Ordovis DONE
-Deathbird
-Draconic Tree Sentinel
+Deathbird DONE
+Draconic Tree Sentinel DONE
 Fell Twins
 Grave Warden Duelist DONE
 Onyx Lord DONE
