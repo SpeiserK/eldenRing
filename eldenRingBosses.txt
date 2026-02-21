@@ -88,7 +88,7 @@ Nox Swordstress & Nox Monk DONE
 Putrid Avatar DONE
 Starscourge Radahn DONE
 
-DRAGONBARROW - 4 Left
+DRAGONBARROW - 3 Left
 Battlemage Hugues DONE
 Beastman of Farum Azula (Duo) DONE
 Bell Bearing Hunter
@@ -98,7 +98,7 @@ Flying Dragon Greyll DONE
 Godskin Apostle DONE
 Night's Cavalry (Dragonbarrow) DONE
 Putrid Avatar DONE
-Putrid Crystalian Trio 
+Putrid Crystalian Trio DONE
 Putrid Tree Spirit
 
 ALTUS PLATEAU
@@ -137,16 +137,16 @@ Fell Twins
 Grave Warden Duelist DONE
 Onyx Lord DONE
 
-MT. GELMIR - 6 Left
+MT. GELMIR - 3 Left
 Abductor Virgins (Duo)
 Demi-Human Queen Maggie DONE
-Demi-Human Queen Margot
-Full-Grown Fallingstar Beast
+Demi-Human Queen Margot DONE
+Full-Grown Fallingstar Beast DONE
 God-Devouring Serpent / Rykard, Lord of Blasphemy
 Godskin Noble
 Kindred of Rot (Duo) DONE
 Magma Wyrm (Fort Laiedd) DONE
 Red Wolf of the Champion DONE
-Ulcerated Tree Spirit
+Ulcerated Tree Spirit DONE
 
 
