@@ -67,10 +67,10 @@ Tibia Mariner DONE
 AINSEL
 Dragonkin Soldier of Nokstella DONE
 
-SIOFRA RIVER - 1 Left
+SIOFRA RIVER
 Ancestor Spirit DONE
 Dragonkin Soldier DONE
-Mohg, Lord of Blood
+Mohg, Lord of Blood DONE (USED SUMMON)
 
 CAELID
 Mad Pumpkin Head Duo DONE
@@ -155,9 +155,9 @@ Godfrey, First Elden Lord DONE
 Mohg, the Omen DONE
 Morgott, the Omen King DONE
 
-LAKE OF ROT - 1 Left
+LAKE OF ROT
 Astel, Naturalborn of the Void DONE
-Dragonkin Soldier
+Dragonkin Soldier DONE
 
 
 
