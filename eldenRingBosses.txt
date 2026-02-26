@@ -149,7 +149,7 @@ Magma Wyrm (Fort Laiedd) DONE
 Red Wolf of the Champion DONE
 Ulcerated Tree Spirit DONE
 
-LEYNDELL
+LEYNDELL ROYAL CAPTITAL
 Esgar, Priest of Blood DONE
 Godfrey, First Elden Lord DONE
 Mohg, the Omen DONE
@@ -158,6 +158,11 @@ Morgott, the Omen King DONE
 LAKE OF ROT
 Astel, Naturalborn of the Void DONE
 Dragonkin Soldier DONE
+
+DEEPROOT DEPTHS - 1 Left
+Crucible Knight Siluria DONE
+Fia's Champions DONE
+Lichdragon Fortissax
 
 
 
