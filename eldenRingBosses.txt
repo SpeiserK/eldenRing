@@ -128,12 +128,12 @@ Mimic Tear DONE
 Regal Ancestor Spirit DONE
 Valiant Gargoyle & Valiant Gargoyle (Twinblade) DONE
 
-CAPITAL OUTSKIRTS - 1 Left
+CAPITAL OUTSKIRTS
 Bell Bearing Hunter DONE
 Crucible Knight & Crucible Knight Ordovis DONE
 Deathbird DONE
 Draconic Tree Sentinel DONE
-Fell Twins
+Fell Twins DONE
 Grave Warden Duelist DONE
 Onyx Lord DONE
 
@@ -159,10 +159,16 @@ LAKE OF ROT
 Astel, Naturalborn of the Void DONE
 Dragonkin Soldier DONE
 
-DEEPROOT DEPTHS - 1 Left
+DEEPROOT DEPTHS
 Crucible Knight Siluria DONE
 Fia's Champions DONE
-Lichdragon Fortissax
+Lichdragon Fortissax DONE
+
+FORBIDDEN LANDS - 2 Left
+Black Blade Kindred DONE
+Night's Cavalry
+Stray Mimic Tear
+
 
 
 
