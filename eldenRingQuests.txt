@@ -2,9 +2,7 @@ SIDE QUESTS
 
 Varre DONE
 YURA DONE
-
-Patches 
-    - Finished volcano manor quest
+Patches DONE
 
 Boc
     - Return once erdtree is burned
@@ -19,7 +17,7 @@ Alexander
     - Need to fight at farum Azula
 
 Knight Bernahl
-    - Finished his special contract
+    - Fight him in farum azula
 
 Fia DONE
 D DONE
@@ -34,10 +32,9 @@ Kenneth Haight DONE
 Rogier DONE
 
 Brother Corhyn and Goldmask
-    - Need to cast Law of Regression
+    - Casted law of regression, Find them somewhere
 
-Thops
-    - Need to find his body near the Schoolhouse Classroom Grace in Raya Lucaria
+Thops DONE
 
 Hyetta
     - Gave her the fingerprint grape, she'll be at the frenzied flame after mohg
@@ -62,8 +59,7 @@ Millicent
 Gowry
     - Return after helping or killing Millicent
 
-Tanith
-    - Kill rykard then talk to her
+Tanith DONE
 
 Dung Eater
     - Give seedbed curses
