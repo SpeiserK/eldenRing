@@ -137,13 +137,13 @@ Fell Twins DONE
 Grave Warden Duelist DONE
 Onyx Lord DONE
 
-MT. GELMIR - 3 Left
+MT. GELMIR - 2 Left
 Abductor Virgins (Duo)
 Demi-Human Queen Maggie DONE
 Demi-Human Queen Margot DONE
 Full-Grown Fallingstar Beast DONE
 God-Devouring Serpent / Rykard, Lord of Blasphemy
-Godskin Noble
+Godskin Noble DONE
 Kindred of Rot (Duo) DONE
 Magma Wyrm (Fort Laiedd) DONE
 Red Wolf of the Champion DONE
@@ -169,6 +169,17 @@ Black Blade Kindred DONE
 Night's Cavalry
 Stray Mimic Tear
 
+
+MOUNTAINTOPS OF THE GIANTS - 8 Left
+Ancient Hero of Zamor
+Borealis the Freezing Fog
+Commander Niall
+Death Rite Bird
+Erdtree Avatar
+Fire Giant
+Godskin Apostle and Godskin Noble (Spiritcaller Snail)
+Ulcerated Tree Spirit DONE
+Vyke, Knight of the Roundtable
 
 
 
