@@ -88,10 +88,10 @@ Nox Swordstress & Nox Monk DONE
 Putrid Avatar DONE
 Starscourge Radahn DONE
 
-DRAGONBARROW - 3 Left
+DRAGONBARROW - 2 Left
 Battlemage Hugues DONE
 Beastman of Farum Azula (Duo) DONE
-Bell Bearing Hunter
+Bell Bearing Hunter DONE
 Black Blade Kindred DONE
 Cleanrot Knight (Duo)
 Flying Dragon Greyll DONE
@@ -180,11 +180,11 @@ Godskin Apostle and Godskin Noble (Spiritcaller Snail) DONE
 Ulcerated Tree Spirit DONE
 Vyke, Knight of the Roundtable DONE
 
-CONSECRATED SNOWFIELD - 2 Left
+CONSECRATED SNOWFIELD
 Astel, Stars of Darkness DONE
-Death Rite Bird
+Death Rite Bird DONE
 Great Wyrm Theodorix DONE
-Misbegotten Crusader
+Misbegotten Crusader DONE
 Night's Cavalry (Duo) DONE
 Putrid Avatar DONE
 Putrid Grave Warden Duelist DONE
