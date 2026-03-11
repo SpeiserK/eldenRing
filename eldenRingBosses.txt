@@ -88,18 +88,18 @@ Nox Swordstress & Nox Monk DONE
 Putrid Avatar DONE
 Starscourge Radahn DONE
 
-DRAGONBARROW - 2 Left
+DRAGONBARROW
 Battlemage Hugues DONE
 Beastman of Farum Azula (Duo) DONE
 Bell Bearing Hunter DONE
 Black Blade Kindred DONE
-Cleanrot Knight (Duo)
+Cleanrot Knight (Duo) DONE
 Flying Dragon Greyll DONE
 Godskin Apostle DONE
 Night's Cavalry (Dragonbarrow) DONE
 Putrid Avatar DONE
 Putrid Crystalian Trio DONE
-Putrid Tree Spirit
+Putrid Tree Spirit DONE
 
 ALTUS PLATEAU
 Ancient Dragon Lansseax DONE
@@ -189,5 +189,7 @@ Night's Cavalry (Duo) DONE
 Putrid Avatar DONE
 Putrid Grave Warden Duelist DONE
 
-
+MIQUELLAS HALIGTREE - 1 Left
+Loretta, Knight of the Haligtree DONE
+Malenia, Blade of Miquella
 
