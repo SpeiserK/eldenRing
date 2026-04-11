@@ -48,13 +48,8 @@ Jar-Bairn
 
 Ranni DONE
 Selvius DONE
-
-Millicent
-    - Found her in mountain tops, said she was looking for half of haigltree medalion
-
-Gowry
-    - Return after helping or killing Millicent
-
+Millicent DONE
+Gowry DONE
 Tanith DONE
 
 Dung Eater
