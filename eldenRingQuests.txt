@@ -12,10 +12,7 @@ Sellen DONE
 Irina and Edgar DONE
 Roderika DONE
 Alexander DONE
-
-Knight Bernahl
-    - Fight him in farum azula
-
+Knight Bernahl DONE
 Fia DONE
 D DONE
 Gurranq DONE
@@ -45,9 +42,7 @@ Selvius DONE
 Millicent DONE
 Gowry DONE
 Tanith DONE
-
-Dung Eater
-    - Give seedbed curses
+Dung Eater DONE
 
 Shabiri
     - Ignore I guess
