@@ -3,10 +3,7 @@ SIDE QUESTS
 Varre DONE
 YURA DONE
 Patches DONE
-
-Boc
-    - Return once erdtree is burned
-
+Boc DONE
 Blaidd DONE
 Sellen DONE
 Irina and Edgar DONE
