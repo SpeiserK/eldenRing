@@ -2,7 +2,7 @@ LIMGRAVE
 Beastman of Farum Azula 
 Bell Bearing Hunter 
 Black Knife Assassin 
-Bloodhound Knight Darriwil 
+Bloodhound Knight Darriwil DONE
 Crucible Knight 
 Deathbird 
 Demi-Human Chief 
@@ -12,9 +12,9 @@ Godrick the Grafted
 Grafted Scion DONE
 Grave Warden Duelist 
 Guardian Golem 
-Mad Pumpkin Head 
+Mad Pumpkin Head DONE
 Margit, the Fell Omen DONE
-Night's Cavalry 
+Night's Cavalry DONE
 Patches 
 Soldier of Godrick DONE
 Stonedigger Troll 
@@ -30,7 +30,7 @@ Erdtree Avatar
 Erdtree Burial Watchdog (Impaler's Catacombs) 
 Leonine Misbegotten 
 Miranda the Blighted Bloom 
-Night's Cavalry 
+Night's Cavalry DONE
 Runebear 
 Scaly Misbegotten 
  
