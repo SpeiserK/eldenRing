@@ -1,21 +1,21 @@
 LIMGRAVE
-Beastman of Farum Azula 
+Beastman of Farum Azula DONE
 Bell Bearing Hunter 
 Black Knife Assassin 
 Bloodhound Knight Darriwil DONE
 Crucible Knight 
 Deathbird 
-Demi-Human Chief 
+Demi-Human Chief DONE
 Erdtree Burial Watchdog (Stormfoot Catacombs)  
-Flying Dragon Agheel 
-Godrick the Grafted 
+Flying Dragon Agheel DONE
+Godrick the Grafted DONE
 Grafted Scion DONE
 Grave Warden Duelist 
 Guardian Golem 
 Mad Pumpkin Head DONE
 Margit, the Fell Omen DONE
 Night's Cavalry DONE
-Patches 
+Patches DONE
 Soldier of Godrick DONE
 Stonedigger Troll 
 Tibia Mariner 
@@ -28,7 +28,7 @@ Cemetery Shade
 Deathbird 
 Erdtree Avatar 
 Erdtree Burial Watchdog (Impaler's Catacombs) 
-Leonine Misbegotten 
+Leonine Misbegotten DONE
 Miranda the Blighted Bloom 
 Night's Cavalry DONE
 Runebear 
@@ -40,18 +40,18 @@ Alecto, Black Knife Ringleader
 Bell Bearing Hunter 
 Black Knife Assassin 
 Bloodhound Knight 
-Bols, Carian Knight 
+Bols, Carian Knight DONE
 Cemetery Shade 
 Cleanrot Knight 
 Crystalline 
 Crystalian Spear & Crystalian Staff (Duo) 
 Death Rite Bird 
-Deathbird 
+Deathbird DONE
 Erdtree Avatar (Liurnia Northeast) 
 Erdtree Avatar (Liurnia Southwest) 
 Erdtree Burial Watchdog 
 Glintstone Dragon Adula 
-Glintstone Dragon Smarag 
+Glintstone Dragon Smarag DONE
 Magma Wyrm Makar 
 Night's Cavalry (Liurnia North) 
 Night's Cavalry (Liurnia South) 
@@ -70,7 +70,7 @@ Dragonkin Soldier of Nokstella
 SIOFRA RIVER
 Ancestor Spirit 
 Dragonkin Soldier 
-Mohg, Lord of Blood  (USED SUMMON)
+Mohg, Lord of Blood
 
 CAELID
 Mad Pumpkin Head Duo 
@@ -85,7 +85,7 @@ Frenzied Duelist
 Magma Wyrm 
 Night's Cavalry (Caelid) 
 Nox Swordstress & Nox Monk 
-Putrid Avatar 
+Putrid Avatar DONE
 Starscourge Radahn 
 
 DRAGONBARROW
