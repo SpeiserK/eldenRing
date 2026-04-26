@@ -54,11 +54,11 @@ Glintstone Dragon Adula
 Glintstone Dragon Smarag DONE
 Magma Wyrm Makar 
 Night's Cavalry (Liurnia North) 
-Night's Cavalry (Liurnia South) 
+Night's Cavalry (Liurnia South) DONE
 Omenkiller 
 Onyx Lord 
-Red Wolf of Radagon 
-Rennala, Queen of the Full Moon 
+Red Wolf of Radagon DONE
+Rennala, Queen of the Full Moon DONE
 Royal Knight Loretta 
 Royal Revenant 
 Spirit-Caller Snail 
@@ -76,10 +76,10 @@ CAELID
 Mad Pumpkin Head Duo 
 Erdtree Burial Watchdog Duo 
 Cemetery Shade 
-Decaying Ekzykes 
-Commander O'Neil 
+Decaying Ekzykes DONE
+Commander O'Neil DONE
 Crucible Knight and Misbegotten Warrior 
-Death Rite Bird 
+Death Rite Bird DONE
 Fallingstar Beast 
 Frenzied Duelist 
 Magma Wyrm 
