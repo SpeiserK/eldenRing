@@ -26,7 +26,7 @@ WEEPING PENINSULA
 Ancient Hero of Zamor 
 Cemetery Shade 
 Deathbird 
-Erdtree Avatar 
+Erdtree Avatar DONE
 Erdtree Burial Watchdog (Impaler's Catacombs) 
 Leonine Misbegotten DONE
 Miranda the Blighted Bloom 
@@ -47,13 +47,13 @@ Crystalline
 Crystalian Spear & Crystalian Staff (Duo) 
 Death Rite Bird 
 Deathbird DONE
-Erdtree Avatar (Liurnia Northeast) 
-Erdtree Avatar (Liurnia Southwest) 
+Erdtree Avatar (Liurnia Northeast) DONE
+Erdtree Avatar (Liurnia Southwest) DONE
 Erdtree Burial Watchdog 
 Glintstone Dragon Adula 
 Glintstone Dragon Smarag DONE
 Magma Wyrm Makar 
-Night's Cavalry (Liurnia North) 
+Night's Cavalry (Liurnia North) DONE
 Night's Cavalry (Liurnia South) DONE
 Omenkiller 
 Onyx Lord 
@@ -95,7 +95,7 @@ Bell Bearing Hunter
 Black Blade Kindred DONE
 Cleanrot Knight (Duo) 
 Flying Dragon Greyll DONE
-Godskin Apostle 
+Godskin Apostle DONE
 Night's Cavalry (Dragonbarrow) 
 Putrid Avatar DONE
 Putrid Crystalian Trio 
