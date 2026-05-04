@@ -1,29 +1,29 @@
 LIMGRAVE
 Beastman of Farum Azula DONE
 Bell Bearing Hunter DONE
-Black Knife Assassin 
+Black Knife Assassin DONE
 Bloodhound Knight Darriwil DONE
-Crucible Knight 
+Crucible Knight DONE
 Deathbird DONE
 Demi-Human Chief DONE
-Erdtree Burial Watchdog (Stormfoot Catacombs)  
+Erdtree Burial Watchdog (Stormfoot Catacombs) DONE
 Flying Dragon Agheel DONE
 Godrick the Grafted DONE
 Grafted Scion DONE
-Grave Warden Duelist 
-Guardian Golem 
+Grave Warden Duelist DONE
+Guardian Golem DONE
 Mad Pumpkin Head DONE
 Margit, the Fell Omen DONE
 Night's Cavalry DONE
 Patches DONE
 Soldier of Godrick DONE
-Stonedigger Troll 
+Stonedigger Troll DONE
 Tibia Mariner DONE
 Tree Sentinel DONE
 Ulcerated Tree Spirit 
 
 WEEPING PENINSULA
-Ancient Hero of Zamor 
+Ancient Hero of Zamor DONE
 Cemetery Shade 
 Deathbird 
 Erdtree Avatar DONE
@@ -52,11 +52,11 @@ Erdtree Avatar (Liurnia Southwest) DONE
 Erdtree Burial Watchdog 
 Glintstone Dragon Adula
 Glintstone Dragon Smarag DONE
-Magma Wyrm Makar 
+Magma Wyrm Makar DONE
 Night's Cavalry (Liurnia North) DONE
 Night's Cavalry (Liurnia South) DONE
 Omenkiller DONE
-Onyx Lord 
+Onyx Lord DONE
 Red Wolf of Radagon DONE
 Rennala, Queen of the Full Moon DONE
 Royal Knight Loretta DONE
@@ -80,9 +80,9 @@ Decaying Ekzykes DONE
 Commander O'Neil DONE
 Crucible Knight and Misbegotten Warrior 
 Death Rite Bird DONE
-Fallingstar Beast 
+Fallingstar Beast DONE
 Frenzied Duelist 
-Magma Wyrm 
+Magma Wyrm DONE
 Night's Cavalry (Caelid)  DONE
 Nox Swordstress & Nox Monk DONE
 Putrid Avatar DONE
@@ -114,7 +114,7 @@ Fallingstar Beast
 Godefroy The Grafted 
 Godskin Apostle 
 Necromancer Garris 
-Night's Cavalry 
+Night's Cavalry DONE
 Omenkiller & Miranda the Blighted Bloom 
 Perfumer Tricia and Misbegotten Warrior 
 Sanguine Noble 
