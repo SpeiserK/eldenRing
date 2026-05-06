@@ -108,19 +108,19 @@ Black Knife Assassin (Sage's Cave)
 Black Knife Assassin (Sainted Hero's Grave) 
 Crystalian Spear & Crystalian Ringblade 
 Demi-Human Queen Gilika 
-Elemer of the Briar 
+Elemer of the Briar DONE
 Erdtree Burial Watchdog 
 Fallingstar Beast 
 Godefroy The Grafted 
-Godskin Apostle 
+Godskin Apostle DONE
 Necromancer Garris 
 Night's Cavalry DONE
 Omenkiller & Miranda the Blighted Bloom 
 Perfumer Tricia and Misbegotten Warrior 
 Sanguine Noble 
 Stonedigger Troll 
-Tibia Mariner 
-Tree Sentinel (Duo) 
+Tibia Mariner DONE
+Tree Sentinel (Duo) DONE
 Wormface 
 
 NOKRON
@@ -131,8 +131,8 @@ Valiant Gargoyle & Valiant Gargoyle (Twinblade)
 CAPITAL OUTSKIRTS
 Bell Bearing Hunter 
 Crucible Knight & Crucible Knight Ordovis 
-Deathbird 
-Draconic Tree Sentinel 
+Deathbird DONE
+Draconic Tree Sentinel DONE
 Fell Twins 
 Grave Warden Duelist 
 Onyx Lord 
@@ -151,7 +151,7 @@ Ulcerated Tree Spirit
 
 LEYNDELL ROYAL CAPTITAL
 Esgar, Priest of Blood 
-Godfrey, First Elden Lord 
+Godfrey, First Elden Lord DONE
 Mohg, the Omen 
 Morgott, the Omen King 
 
