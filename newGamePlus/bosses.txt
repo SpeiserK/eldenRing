@@ -102,16 +102,16 @@ Putrid Crystalian Trio
 Putrid Tree Spirit 
 
 ALTUS PLATEAU
-Ancient Dragon Lansseax 
+Ancient Dragon Lansseax  DONE
 Ancient Hero of Zamor 
 Black Knife Assassin (Sage's Cave) 
-Black Knife Assassin (Sainted Hero's Grave) 
+Black Knife Assassin (Sainted Hero's Grave) DONE
 Crystalian Spear & Crystalian Ringblade 
 Demi-Human Queen Gilika 
 Elemer of the Briar DONE
 Erdtree Burial Watchdog 
-Fallingstar Beast 
-Godefroy The Grafted 
+Fallingstar Beast DONE
+Godefroy The Grafted DONE
 Godskin Apostle DONE
 Necromancer Garris 
 Night's Cavalry DONE
@@ -126,14 +126,14 @@ Wormface
 NOKRON
 Mimic Tear DONE
 Regal Ancestor Spirit DONE
-Valiant Gargoyle & Valiant Gargoyle (Twinblade) 
+Valiant Gargoyle & Valiant Gargoyle (Twinblade) DONE
 
 CAPITAL OUTSKIRTS
 Bell Bearing Hunter 
 Crucible Knight & Crucible Knight Ordovis 
 Deathbird DONE
 Draconic Tree Sentinel DONE
-Fell Twins 
+Fell Twins DONE
 Grave Warden Duelist 
 Onyx Lord 
 
@@ -153,7 +153,7 @@ LEYNDELL ROYAL CAPTITAL
 Esgar, Priest of Blood 
 Godfrey, First Elden Lord DONE
 Mohg, the Omen 
-Morgott, the Omen King 
+Morgott, the Omen King DONE
 
 LAKE OF ROT
 Astel, Naturalborn of the Void 
@@ -165,8 +165,8 @@ Fia's Champions
 Lichdragon Fortissax 
 
 FORBIDDEN LANDS
-Black Blade Kindred 
-Night's Cavalry 
+Black Blade Kindred DONE
+Night's Cavalry DONE
 Stray Mimic Tear 
 
 MOUNTAINTOPS OF THE GIANTS
