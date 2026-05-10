@@ -152,7 +152,7 @@ Ulcerated Tree Spirit
 LEYNDELL ROYAL CAPTITAL
 Esgar, Priest of Blood 
 Godfrey, First Elden Lord DONE
-Mohg, the Omen 
+Mohg, the Omen DONE
 Morgott, the Omen King DONE
 
 LAKE OF ROT
@@ -173,7 +173,7 @@ MOUNTAINTOPS OF THE GIANTS
 Ancient Hero of Zamor 
 Borealis the Freezing Fog 
 Commander Niall 
-Death Rite Bird 
+Death Rite Bird DONE
 Erdtree Avatar 
 Fire Giant 
 Godskin Apostle and Godskin Noble (Spiritcaller Snail) 
