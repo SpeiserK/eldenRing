@@ -160,9 +160,9 @@ Astel, Naturalborn of the Void
 Dragonkin Soldier 
 
 DEEPROOT DEPTHS
-Crucible Knight Siluria 
-Fia's Champions 
-Lichdragon Fortissax 
+Crucible Knight Siluria DONE
+Fia's Champions DONE
+Lichdragon Fortissax DONE
 
 FORBIDDEN LANDS
 Black Blade Kindred DONE
@@ -171,14 +171,14 @@ Stray Mimic Tear
 
 MOUNTAINTOPS OF THE GIANTS
 Ancient Hero of Zamor 
-Borealis the Freezing Fog 
-Commander Niall 
+Borealis the Freezing Fog DONE
+Commander Niall DONE
 Death Rite Bird DONE
-Erdtree Avatar 
-Fire Giant 
+Erdtree Avatar DONE
+Fire Giant DONE
 Godskin Apostle and Godskin Noble (Spiritcaller Snail) 
 Ulcerated Tree Spirit 
-Vyke, Knight of the Roundtable 
+Vyke, Knight of the Roundtable DONE
 
 CONSECRATED SNOWFIELD
 Astel, Stars of Darkness 
