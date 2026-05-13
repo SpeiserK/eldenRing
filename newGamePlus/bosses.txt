@@ -78,7 +78,7 @@ Erdtree Burial Watchdog Duo
 Cemetery Shade 
 Decaying Ekzykes DONE
 Commander O'Neil DONE
-Crucible Knight and Misbegotten Warrior 
+Crucible Knight and Misbegotten Warrior DONE
 Death Rite Bird DONE
 Fallingstar Beast DONE
 Frenzied Duelist 
@@ -117,7 +117,7 @@ Necromancer Garris
 Night's Cavalry DONE
 Omenkiller & Miranda the Blighted Bloom 
 Perfumer Tricia and Misbegotten Warrior 
-Sanguine Noble 
+Sanguine Noble DONE
 Stonedigger Troll 
 Tibia Mariner DONE
 Tree Sentinel (Duo) DONE
@@ -182,10 +182,10 @@ Vyke, Knight of the Roundtable DONE
 
 CONSECRATED SNOWFIELD
 Astel, Stars of Darkness 
-Death Rite Bird 
-Great Wyrm Theodorix 
+Death Rite Bird DONE
+Great Wyrm Theodorix DONE
 Misbegotten Crusader 
-Night's Cavalry (Duo) 
+Night's Cavalry (Duo) DONE
 Putrid Avatar 
 Putrid Grave Warden Duelist 
 
