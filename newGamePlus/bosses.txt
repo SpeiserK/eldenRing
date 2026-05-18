@@ -36,7 +36,7 @@ Scaly Misbegotten
  
 LIURNIA
 Adan, Thief of Fire 
-Alecto, Black Knife Ringleader 
+Alecto, Black Knife Ringleader DONE
 Bell Bearing Hunter 
 Black Knife Assassin 
 Bloodhound Knight DONE
@@ -50,7 +50,7 @@ Deathbird DONE
 Erdtree Avatar (Liurnia Northeast) DONE
 Erdtree Avatar (Liurnia Southwest) DONE
 Erdtree Burial Watchdog 
-Glintstone Dragon Adula
+Glintstone Dragon Adula DONE
 Glintstone Dragon Smarag DONE
 Magma Wyrm Makar DONE
 Night's Cavalry (Liurnia North) DONE
