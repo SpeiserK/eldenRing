@@ -98,7 +98,7 @@ Flying Dragon Greyll DONE
 Godskin Apostle DONE
 Night's Cavalry (Dragonbarrow) 
 Putrid Avatar DONE
-Putrid Crystalian Trio 
+Putrid Crystalian Trio DONE
 Putrid Tree Spirit 
 
 ALTUS PLATEAU
@@ -156,7 +156,7 @@ Mohg, the Omen DONE
 Morgott, the Omen King DONE
 
 LAKE OF ROT
-Astel, Naturalborn of the Void 
+Astel, Naturalborn of the Void DONE
 Dragonkin Soldier 
 
 DEEPROOT DEPTHS
