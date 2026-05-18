@@ -142,7 +142,7 @@ Abductor Virgins (Duo)
 Demi-Human Queen Maggie DONE
 Demi-Human Queen Margot 
 Full-Grown Fallingstar Beast DONE
-God-Devouring Serpent / Rykard, Lord of Blasphemy 
+God-Devouring Serpent / Rykard, Lord of Blasphemy DONE
 Godskin Noble DONE
 Kindred of Rot (Duo) 
 Magma Wyrm (Fort Laiedd) DONE
@@ -190,7 +190,7 @@ Putrid Avatar
 Putrid Grave Warden Duelist 
 
 MIQUELLAS HALIGTREE
-Loretta, Knight of the Haligtree 
+Loretta, Knight of the Haligtree DONE
 Malenia, Blade of Miquella 
 
 CRUMBLING FARUM AZULA
