@@ -1,6 +1,6 @@
 SIDE QUESTS
 
-Varre - Spoke with in liurnia
+Varre DONE
 YURA DONE
 Patches DONE
 Boc DONE
@@ -13,7 +13,7 @@ Knight Bernahl - spoke with in manor
 Fia DONE
 D DONE
 Gurranq - gave deathroot 1
-Diallos Hoslow - Spoke with at jarburg
+Diallos Hoslow DONE
 Ensha DONE
 Nephili Loux DONE
 Kenneth Haight DONE
@@ -24,11 +24,11 @@ Hyetta - gave her alls grapes, should be past mohg in captial
 Latenna DONE
 Rya/Zoraya DONE
 Blackguard DONE
-Jar-Bairn - Spoke with, talking about poachers
+Jar-Bairn - Spoke with, talking about leaving soon to be a warrior
 Ranni DONE
 Selvius DONE
-Millicent - spoke with at haligtree
-Gowry - Helped heal milicent
+Millicent DONE
+Gowry DONE
 Tanith DONE
 Dung Eater DONE
 Shabiri - found in mountaintops
