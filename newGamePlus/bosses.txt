@@ -232,10 +232,10 @@ Bayle the Dread
 Jagged Peak Drake x2
 
 SCADU ALTUS
-Black Knight Edredd
-Black Knight Garrew
+Black Knight Edredd DONE
+Black Knight Garrew DONE
 Count Ymir, Mother of Fingers
-Curseblade Labirith
+Curseblade Labirith DONE
 Death Knight
 Dryleaf Dane DONE
 Ghostflame Dragon
@@ -244,4 +244,4 @@ Messmer the Impaler + Base Serpent Messmer
 Metyr, Mother of Fingers
 Rakshasa
 Jori, Elder Inquisitor
-Ralva the Great Red Bear
+Ralva the Great Red Bear DONE
