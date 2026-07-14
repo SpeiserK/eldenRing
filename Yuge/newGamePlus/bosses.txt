@@ -240,7 +240,7 @@ Death Knight DONE
 Dryleaf Dane DONE
 Ghostflame Dragon
 Golden Hippopotamus DONE
-Messmer the Impaler + Base Serpent Messmer
+Messmer the Impaler + Base Serpent Messmer DONE
 Metyr, Mother of Fingers
 Rakshasa DONE
 Jori, Elder Inquisitor DONE
@@ -252,3 +252,18 @@ Midra Lord of Frenzied Flame DONE
 ANCIENT RUINS OF RAUH
 Divine Beast Dancing Lion
 Romina, Saint of the Bud
+
+CHAROS HIDDEN GRAVE
+Death Rite Bird
+Lamenter
+Tibia Mariner
+
+SCADUVIEW
+Fallingstar Beast
+Scadutree Avatar DONE
+Commander Gaius DONE
+Tree Sentinel
+
+ENIR-ILIM
+Leda and Allies
+Promised Consort Radahn + Radahn Consort of Miquella
