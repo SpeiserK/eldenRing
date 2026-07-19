@@ -223,7 +223,7 @@ CERULEAN COAST
 Dancer of Ranah DONE
 Demi-Human Queen Marigga DONE
 Ghostflame Dragon DONE
-Putrescent Knight
+Putrescent Knight DONE
 
 JAGGED PEAK
 Ancient Dragon-Man DONE
@@ -234,14 +234,14 @@ Jagged Peak Drake x2
 SCADU ALTUS
 Black Knight Edredd DONE
 Black Knight Garrew DONE
-Count Ymir, Mother of Fingers
+Count Ymir, Mother of Fingers DONE
 Curseblade Labirith DONE
 Death Knight DONE
 Dryleaf Dane DONE
 Ghostflame Dragon
 Golden Hippopotamus DONE
 Messmer the Impaler + Base Serpent Messmer DONE
-Metyr, Mother of Fingers
+Metyr, Mother of Fingers DONE
 Rakshasa DONE
 Jori, Elder Inquisitor DONE
 Ralva the Great Red Bear DONE
@@ -259,10 +259,10 @@ Lamenter
 Tibia Mariner
 
 SCADUVIEW
-Fallingstar Beast
+Fallingstar Beast DONE
 Scadutree Avatar DONE
 Commander Gaius DONE
-Tree Sentinel
+Tree Sentinel DONE
 
 ENIR-ILIM
 Leda and Allies
