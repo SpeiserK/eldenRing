@@ -229,7 +229,8 @@ JAGGED PEAK
 Ancient Dragon-Man DONE
 Ancient Dragon Senessax
 Bayle the Dread
-Jagged Peak Drake x2
+Jagged Peak Drake DONE
+Jagged Peak Drake
 
 SCADU ALTUS
 Black Knight Edredd DONE
@@ -254,9 +255,9 @@ Divine Beast Dancing Lion
 Romina, Saint of the Bud
 
 CHAROS HIDDEN GRAVE
-Death Rite Bird
-Lamenter
-Tibia Mariner
+Death Rite Bird DONE
+Lamenter DONE
+Tibia Mariner DONE
 
 SCADUVIEW
 Fallingstar Beast DONE
