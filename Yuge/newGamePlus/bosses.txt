@@ -213,7 +213,7 @@ Demi-Human Swordmaster Onze DONE
 Divine Beast Dancing Lion DONE
 Ghostflame Dragon DONE
 Rellana Twin Moon Knight DONE
-Red Bear
+Red Bear DONE
 
 RAUH BASE
 Death Knight DONE
@@ -228,7 +228,7 @@ Putrescent Knight DONE
 JAGGED PEAK
 Ancient Dragon-Man DONE
 Ancient Dragon Senessax DONE
-Bayle the Dread
+Bayle the Dread DONE
 Jagged Peak Drake DONE
 Jagged Peak Drake DONE
 
@@ -239,7 +239,7 @@ Count Ymir, Mother of Fingers DONE
 Curseblade Labirith DONE
 Death Knight DONE
 Dryleaf Dane DONE
-Ghostflame Dragon
+Ghostflame Dragon DONE
 Golden Hippopotamus DONE
 Messmer the Impaler + Base Serpent Messmer DONE
 Metyr, Mother of Fingers DONE
