@@ -7,8 +7,8 @@ Crucible Knight
 Deathbird DONE
 Demi-Human Chief DONE
 Erdtree Burial Watchdog (Stormfoot Catacombs)  
-Flying Dragon Agheel 
-Godrick the Grafted 
+Flying Dragon Agheel DONE
+Godrick the Grafted DONE
 Grafted Scion 
 Grave Warden Duelist 
 Guardian Golem 
@@ -23,11 +23,11 @@ Tree Sentinel
 Ulcerated Tree Spirit 
 
 WEEPING PENINSULA
-Ancient Hero of Zamor 
-Cemetery Shade 
-Deathbird 
+Ancient Hero of Zamor DONE
+Cemetery Shade DONE
+Deathbird DONE
 Erdtree Avatar DONE
-Erdtree Burial Watchdog (Impaler's Catacombs) 
+Erdtree Burial Watchdog (Impaler's Catacombs) DONE
 Leonine Misbegotten DONE
 Miranda the Blighted Bloom 
 Night's Cavalry DONE
@@ -38,27 +38,27 @@ LIURNIA
 Adan, Thief of Fire 
 Alecto, Black Knife Ringleader 
 Bell Bearing Hunter 
-Black Knife Assassin 
-Bloodhound Knight 
+Black Knife Assassin DONE
+Bloodhound Knight DONE
 Bols, Carian Knight DONE
-Cemetery Shade 
+Cemetery Shade DONE
 Cleanrot Knight 
-Crystalline 
+Crystalline DONE
 Crystalian Spear & Crystalian Staff (Duo) 
 Death Rite Bird 
 Deathbird DONE
 Erdtree Avatar (Liurnia Northeast) DONE
 Erdtree Avatar (Liurnia Southwest) DONE
-Erdtree Burial Watchdog 
+Erdtree Burial Watchdog DONE
 Glintstone Dragon Adula 
 Glintstone Dragon Smarag DONE
 Magma Wyrm Makar 
 Night's Cavalry (Liurnia North) DONE
 Night's Cavalry (Liurnia South) 
-Omenkiller 
+Omenkiller DONE
 Onyx Lord 
 Red Wolf of Radagon DONE
-Rennala, Queen of the Full Moon 
+Rennala, Queen of the Full Moon DONE
 Royal Knight Loretta 
 Royal Revenant 
 Spirit-Caller Snail 
@@ -70,7 +70,7 @@ Dragonkin Soldier of Nokstella
 SIOFRA RIVER
 Ancestor Spirit 
 Dragonkin Soldier 
-Mohg, Lord of Blood  (USED SUMMON)
+Mohg, Lord of Bloodyx
 
 CAELID
 Mad Pumpkin Head Duo 
