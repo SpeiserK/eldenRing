@@ -29,10 +29,10 @@ Deathbird DONE
 Erdtree Avatar DONE
 Erdtree Burial Watchdog (Impaler's Catacombs) DONE
 Leonine Misbegotten DONE
-Miranda the Blighted Bloom 
+Miranda the Blighted Bloom DONE
 Night's Cavalry DONE
-Runebear 
-Scaly Misbegotten 
+Runebear DONE
+Scaly Misbegotten DONE
  
 LIURNIA
 Adan, Thief of Fire 
@@ -42,7 +42,7 @@ Black Knife Assassin
 Bloodhound Knight DONE
 Bols, Carian Knight DONE
 Cemetery Shade 
-Cleanrot Knight 
+Cleanrot Knight DONE
 Crystalline 
 Crystalian Spear & Crystalian Staff (Duo) 
 Death Rite Bird DONE
@@ -251,7 +251,7 @@ ABYSSAL WOODS
 Midra Lord of Frenzied Flame DONE
 
 ANCIENT RUINS OF RAUH
-Divine Beast Dancing Lion
+Divine Beast Dancing Lion DONE
 Romina, Saint of the Bud
 
 CHAROS HIDDEN GRAVE
