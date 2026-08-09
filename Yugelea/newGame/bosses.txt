@@ -3,7 +3,7 @@ Beastman of Farum Azula DONE
 Bell Bearing Hunter 
 Black Knife Assassin 
 Bloodhound Knight Darriwil DONE
-Crucible Knight 
+Crucible Knight DONE
 Deathbird DONE
 Demi-Human Chief DONE
 Erdtree Burial Watchdog (Stormfoot Catacombs)  
@@ -19,7 +19,7 @@ Patches
 Soldier of Godrick DONE
 Stonedigger Troll DONE
 Tibia Mariner DONE
-Tree Sentinel 
+Tree Sentinel DONE
 Ulcerated Tree Spirit 
 
 WEEPING PENINSULA
@@ -44,7 +44,7 @@ Bols, Carian Knight DONE
 Cemetery Shade DONE
 Cleanrot Knight 
 Crystalline DONE
-Crystalian Spear & Crystalian Staff (Duo) 
+Crystalian Spear & Crystalian Staff (Duo) DONE
 Death Rite Bird 
 Deathbird DONE
 Erdtree Avatar (Liurnia Northeast) DONE
@@ -54,13 +54,13 @@ Glintstone Dragon Adula
 Glintstone Dragon Smarag DONE
 Magma Wyrm Makar 
 Night's Cavalry (Liurnia North) DONE
-Night's Cavalry (Liurnia South) 
+Night's Cavalry (Liurnia South) DONE
 Omenkiller DONE
-Onyx Lord 
+Onyx Lord DONE
 Red Wolf of Radagon DONE
 Rennala, Queen of the Full Moon DONE
-Royal Knight Loretta 
-Royal Revenant 
+Royal Knight Loretta DONE
+Royal Revenant DONE
 Spirit-Caller Snail 
 Tibia Mariner DONE
 
@@ -68,13 +68,13 @@ AINSEL
 Dragonkin Soldier of Nokstella 
 
 SIOFRA RIVER
-Ancestor Spirit 
-Dragonkin Soldier 
-Mohg, Lord of Bloodyx
+Ancestor Spirit DONE
+Dragonkin Soldier DONE
+Mohg, Lord of Blood
 
 CAELID
-Mad Pumpkin Head Duo 
-Erdtree Burial Watchdog Duo 
+Mad Pumpkin Head Duo DONE
+Erdtree Burial Watchdog Duo DONE
 Cemetery Shade 
 Decaying Ekzykes 
 Commander O'Neil 
@@ -82,10 +82,10 @@ Crucible Knight and Misbegotten Warrior
 Death Rite Bird 
 Fallingstar Beast 
 Frenzied Duelist 
-Magma Wyrm 
+Magma Wyrm DONE
 Night's Cavalry (Caelid) 
 Nox Swordstress & Nox Monk 
-Putrid Avatar 
+Putrid Avatar DONE
 Starscourge Radahn 
 
 DRAGONBARROW
