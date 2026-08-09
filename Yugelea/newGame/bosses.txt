@@ -75,18 +75,18 @@ Mohg, Lord of Blood
 CAELID
 Mad Pumpkin Head Duo DONE
 Erdtree Burial Watchdog Duo DONE
-Cemetery Shade 
-Decaying Ekzykes 
-Commander O'Neil 
+Cemetery Shade DONE
+Decaying Ekzykes DONE
+Commander O'Neil DONE
 Crucible Knight and Misbegotten Warrior 
 Death Rite Bird 
-Fallingstar Beast 
+Fallingstar Beast DONE
 Frenzied Duelist 
 Magma Wyrm DONE
-Night's Cavalry (Caelid) 
-Nox Swordstress & Nox Monk 
+Night's Cavalry (Caelid) DONE
+Nox Swordstress & Nox Monk DONE
 Putrid Avatar DONE
-Starscourge Radahn 
+Starscourge Radahn DONE
 
 DRAGONBARROW
 Battlemage Hugues 
@@ -124,8 +124,8 @@ Tree Sentinel (Duo)
 Wormface 
 
 NOKRON
-Mimic Tear 
-Regal Ancestor Spirit 
+Mimic Tear DONE
+Regal Ancestor Spirit DONE
 Valiant Gargoyle & Valiant Gargoyle (Twinblade) 
 
 CAPITAL OUTSKIRTS
