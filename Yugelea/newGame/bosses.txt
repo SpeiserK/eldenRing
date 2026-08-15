@@ -52,7 +52,7 @@ Erdtree Avatar (Liurnia Southwest) DONE
 Erdtree Burial Watchdog DONE
 Glintstone Dragon Adula 
 Glintstone Dragon Smarag DONE
-Magma Wyrm Makar 
+Magma Wyrm Makar DONE
 Night's Cavalry (Liurnia North) DONE
 Night's Cavalry (Liurnia South) DONE
 Omenkiller DONE
@@ -65,7 +65,7 @@ Spirit-Caller Snail
 Tibia Mariner DONE
 
 AINSEL
-Dragonkin Soldier of Nokstella 
+Dragonkin Soldier of Nokstella DONE
 
 SIOFRA RIVER
 Ancestor Spirit DONE
@@ -156,7 +156,7 @@ Mohg, the Omen
 Morgott, the Omen King 
 
 LAKE OF ROT
-Astel, Naturalborn of the Void 
+Astel, Naturalborn of the Void DONE
 Dragonkin Soldier 
 
 DEEPROOT DEPTHS
