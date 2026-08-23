@@ -35,7 +35,7 @@ Runebear
 Scaly Misbegotten 
  
 LIURNIA
-Adan, Thief of Fire 
+Adan, Thief of Fire DONE
 Alecto, Black Knife Ringleader 
 Bell Bearing Hunter 
 Black Knife Assassin DONE
@@ -104,22 +104,22 @@ Putrid Tree Spirit
 ALTUS PLATEAU
 Ancient Dragon Lansseax 
 Ancient Hero of Zamor 
-Black Knife Assassin (Sage's Cave) 
+Black Knife Assassin (Sage's Cave) DONE
 Black Knife Assassin (Sainted Hero's Grave) 
 Crystalian Spear & Crystalian Ringblade 
 Demi-Human Queen Gilika 
 Elemer of the Briar 
-Erdtree Burial Watchdog 
+Erdtree Burial Watchdog DONE
 Fallingstar Beast 
 Godefroy The Grafted 
 Godskin Apostle 
-Necromancer Garris 
-Night's Cavalry 
+Necromancer Garris DONE
+Night's Cavalry DONE
 Omenkiller & Miranda the Blighted Bloom 
 Perfumer Tricia and Misbegotten Warrior 
-Sanguine Noble 
+Sanguine Noble DONE
 Stonedigger Troll 
-Tibia Mariner 
+Tibia Mariner DONE
 Tree Sentinel (Duo) 
 Wormface 
 
