@@ -106,13 +106,13 @@ Ancient Dragon Lansseax
 Ancient Hero of Zamor 
 Black Knife Assassin (Sage's Cave) DONE
 Black Knife Assassin (Sainted Hero's Grave) 
-Crystalian Spear & Crystalian Ringblade 
+Crystalian Spear & Crystalian Ringblade DONE
 Demi-Human Queen Gilika 
-Elemer of the Briar 
+Elemer of the Briar DONE
 Erdtree Burial Watchdog DONE
 Fallingstar Beast 
 Godefroy The Grafted DONE
-Godskin Apostle 
+Godskin Apostle DONE
 Necromancer Garris DONE
 Night's Cavalry DONE
 Omenkiller & Miranda the Blighted Bloom 
@@ -121,7 +121,7 @@ Sanguine Noble DONE
 Stonedigger Troll DONE
 Tibia Mariner DONE
 Tree Sentinel (Duo) 
-Wormface 
+Wormface DONE
 
 NOKRON
 Mimic Tear DONE
@@ -140,8 +140,8 @@ Onyx Lord
 MT. GELMIR
 Abductor Virgins (Duo) 
 Demi-Human Queen Maggie 
-Demi-Human Queen Margot 
-Full-Grown Fallingstar Beast 
+Demi-Human Queen Margot DONE
+Full-Grown Fallingstar Beast DONE
 God-Devouring Serpent / Rykard, Lord of Blasphemy 
 Godskin Noble 
 Kindred of Rot (Duo) 
