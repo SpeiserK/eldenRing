@@ -103,7 +103,7 @@ Putrid Tree Spirit
 
 ALTUS PLATEAU
 Ancient Dragon Lansseax DONE
-Ancient Hero of Zamor 
+Ancient Hero of Zamor DONE
 Black Knife Assassin (Sage's Cave) DONE
 Black Knife Assassin (Sainted Hero's Grave) DONE
 Crystalian Spear & Crystalian Ringblade DONE
@@ -120,7 +120,7 @@ Perfumer Tricia and Misbegotten Warrior
 Sanguine Noble DONE
 Stonedigger Troll DONE
 Tibia Mariner DONE
-Tree Sentinel (Duo) 
+Tree Sentinel (Duo) DONE
 Wormface DONE
 
 NOKRON
