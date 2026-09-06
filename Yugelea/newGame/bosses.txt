@@ -133,7 +133,7 @@ Bell Bearing Hunter DONE
 Crucible Knight & Crucible Knight Ordovis DONE
 Deathbird DONE
 Draconic Tree Sentinel DONE
-Fell Twins 
+Fell Twins DONE
 Grave Warden Duelist 
 Onyx Lord DONE
 
@@ -142,7 +142,7 @@ Abductor Virgins (Duo)
 Demi-Human Queen Maggie 
 Demi-Human Queen Margot DONE
 Full-Grown Fallingstar Beast DONE
-God-Devouring Serpent / Rykard, Lord of Blasphemy 
+God-Devouring Serpent / Rykard, Lord of Blasphemy DONE
 Godskin Noble DONE
 Kindred of Rot (Duo) 
 Magma Wyrm (Fort Laiedd) 
@@ -165,8 +165,8 @@ Fia's Champions
 Lichdragon Fortissax 
 
 FORBIDDEN LANDS
-Black Blade Kindred 
-Night's Cavalry 
+Black Blade Kindred DONE
+Night's Cavalry DONE
 Stray Mimic Tear 
 
 MOUNTAINTOPS OF THE GIANTS
