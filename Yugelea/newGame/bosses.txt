@@ -78,7 +78,7 @@ Erdtree Burial Watchdog Duo DONE
 Cemetery Shade DONE
 Decaying Ekzykes DONE
 Commander O'Neil DONE
-Crucible Knight and Misbegotten Warrior 
+Crucible Knight and Misbegotten Warrior DONE
 Death Rite Bird 
 Fallingstar Beast DONE
 Frenzied Duelist 
@@ -129,13 +129,13 @@ Regal Ancestor Spirit DONE
 Valiant Gargoyle & Valiant Gargoyle (Twinblade) 
 
 CAPITAL OUTSKIRTS
-Bell Bearing Hunter 
-Crucible Knight & Crucible Knight Ordovis 
-Deathbird 
-Draconic Tree Sentinel 
+Bell Bearing Hunter DONE
+Crucible Knight & Crucible Knight Ordovis DONE
+Deathbird DONE
+Draconic Tree Sentinel DONE
 Fell Twins 
 Grave Warden Duelist 
-Onyx Lord 
+Onyx Lord DONE
 
 MT. GELMIR
 Abductor Virgins (Duo) 
@@ -143,17 +143,17 @@ Demi-Human Queen Maggie
 Demi-Human Queen Margot DONE
 Full-Grown Fallingstar Beast DONE
 God-Devouring Serpent / Rykard, Lord of Blasphemy 
-Godskin Noble 
+Godskin Noble DONE
 Kindred of Rot (Duo) 
 Magma Wyrm (Fort Laiedd) 
 Red Wolf of the Champion 
-Ulcerated Tree Spirit 
+Ulcerated Tree Spirit DONE
 
 LEYNDELL ROYAL CAPTITAL
 Esgar, Priest of Blood 
-Godfrey, First Elden Lord 
+Godfrey, First Elden Lord DONE
 Mohg, the Omen 
-Morgott, the Omen King 
+Morgott, the Omen King DONE
 
 LAKE OF ROT
 Astel, Naturalborn of the Void DONE
