@@ -89,12 +89,12 @@ Putrid Avatar DONE
 Starscourge Radahn DONE
 
 DRAGONBARROW
-Battlemage Hugues 
+Battlemage Hugues DONE
 Beastman of Farum Azula (Duo) DONE
 Bell Bearing Hunter 
-Black Blade Kindred 
+Black Blade Kindred DONE
 Cleanrot Knight (Duo) 
-Flying Dragon Greyll 
+Flying Dragon Greyll DONE
 Godskin Apostle DONE
 Night's Cavalry (Dragonbarrow) DONE
 Putrid Avatar DONE
@@ -126,7 +126,7 @@ Wormface DONE
 NOKRON
 Mimic Tear DONE
 Regal Ancestor Spirit DONE
-Valiant Gargoyle & Valiant Gargoyle (Twinblade) 
+Valiant Gargoyle & Valiant Gargoyle (Twinblade) DONE
 
 CAPITAL OUTSKIRTS
 Bell Bearing Hunter DONE
