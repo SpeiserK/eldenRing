@@ -90,12 +90,12 @@ Starscourge Radahn DONE
 
 DRAGONBARROW
 Battlemage Hugues 
-Beastman of Farum Azula (Duo) 
+Beastman of Farum Azula (Duo) DONE
 Bell Bearing Hunter 
 Black Blade Kindred 
 Cleanrot Knight (Duo) 
 Flying Dragon Greyll 
-Godskin Apostle 
+Godskin Apostle DONE
 Night's Cavalry (Dragonbarrow) DONE
 Putrid Avatar DONE
 Putrid Crystalian Trio 
@@ -172,7 +172,7 @@ Stray Mimic Tear
 MOUNTAINTOPS OF THE GIANTS
 Ancient Hero of Zamor 
 Borealis the Freezing Fog DONE
-Commander Niall 
+Commander Niall DONE
 Death Rite Bird DONE
 Erdtree Avatar DONE
 Fire Giant DONE
