@@ -150,9 +150,9 @@ Red Wolf of the Champion DONE
 Ulcerated Tree Spirit DONE
 
 LEYNDELL ROYAL CAPTITAL
-Esgar, Priest of Blood 
+Esgar, Priest of Blood DONE
 Godfrey, First Elden Lord DONE
-Mohg, the Omen 
+Mohg, the Omen DONE
 Morgott, the Omen King DONE
 
 LAKE OF ROT
@@ -167,7 +167,7 @@ Lichdragon Fortissax DONE
 FORBIDDEN LANDS
 Black Blade Kindred DONE
 Night's Cavalry DONE
-Stray Mimic Tear 
+Stray Mimic Tear DONE
 
 MOUNTAINTOPS OF THE GIANTS
 Ancient Hero of Zamor 
