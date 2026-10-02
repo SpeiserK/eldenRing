@@ -183,10 +183,10 @@ Vyke, Knight of the Roundtable DONE
 CONSECRATED SNOWFIELD
 Astel, Stars of Darkness 
 Death Rite Bird 
-Great Wyrm Theodorix 
+Great Wyrm Theodorix DONE
 Misbegotten Crusader 
-Night's Cavalry (Duo) 
-Putrid Avatar 
+Night's Cavalry (Duo) DONE
+Putrid Avatar DONE
 Putrid Grave Warden Duelist 
 
 MIQUELLAS HALIGTREE

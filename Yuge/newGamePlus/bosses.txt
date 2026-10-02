@@ -35,16 +35,16 @@ Runebear DONE
 Scaly Misbegotten DONE
  
 LIURNIA
-Adan, Thief of Fire 
+Adan, Thief of Fire DONE
 Alecto, Black Knife Ringleader DONE
 Bell Bearing Hunter 
-Black Knife Assassin 
+Black Knife Assassin DONE
 Bloodhound Knight DONE
 Bols, Carian Knight DONE
-Cemetery Shade 
+Cemetery Shade DONE
 Cleanrot Knight DONE
 Crystalline 
-Crystalian Spear & Crystalian Staff (Duo) 
+Crystalian Spear & Crystalian Staff (Duo) DONE
 Death Rite Bird DONE
 Deathbird DONE
 Erdtree Avatar (Liurnia Northeast) DONE
@@ -62,7 +62,7 @@ Rennala, Queen of the Full Moon DONE
 Royal Knight Loretta DONE
 Royal Revenant 
 Spirit-Caller Snail 
-Tibia Mariner 
+Tibia Mariner DONE
 
 AINSEL
 Dragonkin Soldier of Nokstella DONE
@@ -73,7 +73,7 @@ Dragonkin Soldier DONE
 Mohg, Lord of Blood DONE
 
 CAELID
-Mad Pumpkin Head Duo 
+Mad Pumpkin Head Duo DONE
 Erdtree Burial Watchdog Duo 
 Cemetery Shade 
 Decaying Ekzykes DONE
@@ -96,7 +96,7 @@ Black Blade Kindred DONE
 Cleanrot Knight (Duo) 
 Flying Dragon Greyll DONE
 Godskin Apostle DONE
-Night's Cavalry (Dragonbarrow) 
+Night's Cavalry (Dragonbarrow) DONE
 Putrid Avatar DONE
 Putrid Crystalian Trio DONE
 Putrid Tree Spirit DONE
@@ -129,7 +129,7 @@ Regal Ancestor Spirit DONE
 Valiant Gargoyle & Valiant Gargoyle (Twinblade) DONE
 
 CAPITAL OUTSKIRTS
-Bell Bearing Hunter 
+Bell Bearing Hunter DONE
 Crucible Knight & Crucible Knight Ordovis 
 Deathbird DONE
 Draconic Tree Sentinel DONE
