@@ -190,7 +190,7 @@ Putrid Avatar DONE
 Putrid Grave Warden Duelist 
 
 MIQUELLAS HALIGTREE
-Loretta, Knight of the Haligtree 
+Loretta, Knight of the Haligtree DONE
 Malenia, Blade of Miquella 
 
 CRUMBLING FARUM AZULA
