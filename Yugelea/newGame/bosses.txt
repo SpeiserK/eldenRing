@@ -191,7 +191,7 @@ Putrid Grave Warden Duelist
 
 MIQUELLAS HALIGTREE
 Loretta, Knight of the Haligtree DONE
-Malenia, Blade of Miquella 
+Malenia, Blade of Miquella DONE
 
 CRUMBLING FARUM AZULA
 Beast Clergyman / Maliketh, the Black Blade DONE

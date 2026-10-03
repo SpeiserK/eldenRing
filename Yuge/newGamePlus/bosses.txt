@@ -107,7 +107,7 @@ Ancient Hero of Zamor
 Black Knife Assassin (Sage's Cave) 
 Black Knife Assassin (Sainted Hero's Grave) DONE
 Crystalian Spear & Crystalian Ringblade 
-Demi-Human Queen Gilika 
+Demi-Human Queen Gilika DONE
 Elemer of the Briar DONE
 Erdtree Burial Watchdog 
 Fallingstar Beast DONE
@@ -191,7 +191,7 @@ Putrid Grave Warden Duelist DONE
 
 MIQUELLAS HALIGTREE
 Loretta, Knight of the Haligtree DONE
-Malenia, Blade of Miquella 
+Malenia, Blade of Miquella DONE
 
 CRUMBLING FARUM AZULA
 Beast Clergyman / Maliketh, the Black Blade DONE
