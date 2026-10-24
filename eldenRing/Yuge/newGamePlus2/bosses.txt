@@ -1,21 +1,21 @@
 LIMGRAVE
-Beastman of Farum Azula 
+Beastman of Farum Azula DONE
 Bell Bearing Hunter 
 Black Knife Assassin 
-Bloodhound Knight Darriwil 
+Bloodhound Knight Darriwil DONE 
 Crucible Knight 
-Deathbird 
+Deathbird
 Demi-Human Chief 
 Erdtree Burial Watchdog (Stormfoot Catacombs) 
-Flying Dragon Agheel 
+Flying Dragon Agheel DONE
 Godrick the Grafted 
 Grafted Scion DONE
-Grave Warden Duelist 
+Grave Warden Duelist DONE
 Guardian Golem 
-Mad Pumpkin Head 
+Mad Pumpkin Head DONE
 Margit, the Fell Omen 
-Night's Cavalry 
-Patches 
+Night's Cavalry DONE
+Patches DONE
 Soldier of Godrick 
 Stonedigger Troll 
 Tibia Mariner 
@@ -25,12 +25,12 @@ Ulcerated Tree Spirit
 WEEPING PENINSULA
 Ancient Hero of Zamor 
 Cemetery Shade 
-Deathbird 
+Deathbird DONE
 Erdtree Avatar 
 Erdtree Burial Watchdog (Impaler's Catacombs) 
-Leonine Misbegotten 
+Leonine Misbegotten DONE
 Miranda the Blighted Bloom 
-Night's Cavalry 
+Night's Cavalry DONE
 Runebear 
 Scaly Misbegotten 
  
